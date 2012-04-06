@@ -1,0 +1,3 @@
+<?php
+
+include_once('ekb_views_all.features.inc');
